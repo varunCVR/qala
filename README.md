@@ -1,1 +1,1 @@
-# qala
+# qala.github.io
